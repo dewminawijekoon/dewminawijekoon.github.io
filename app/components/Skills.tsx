@@ -16,7 +16,16 @@ export default function Skills() {
   "OpenCV",
   "LangFlow",
   "Docker",
-  "Git" 
+  "Git",
+  "Isaac Sim",
+  "ArduPilot",
+  "ROS",
+  "Pegasus Simulator",
+  "Flutter",
+  "React Native",
+  "Firebase",
+  "VHDL",
+  "n8n"
 ]
 
   return (

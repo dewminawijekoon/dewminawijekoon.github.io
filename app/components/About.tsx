@@ -8,6 +8,10 @@ export default function About() {
           </p>
           <br/>
           <p className="text-base md:text-lg leading-relaxed">
+          I am currently drawn to the intersection of hardware and software — spanning high performance computing, resource utilization, robotics, and automation. I am keen to explore how software shapes and is shaped by the physical world, and I actively seek out projects that sit at that boundary.
+          </p>
+          <br/>
+          <p className="text-base md:text-lg leading-relaxed">
           With a strong technical foundation in frontend and backend development, database management, and team collaboration, I excel in dynamic environments where innovation thrives. Leveraging my leadership and communication skills, I am dedicated to delivering impactful solutions and driving success in every project I undertake.
           </p>
         </div>
