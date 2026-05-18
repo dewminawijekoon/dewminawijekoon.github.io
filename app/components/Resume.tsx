@@ -7,7 +7,7 @@ export default function Resume() {
           Want to learn more about my qualifications and experience? Download my complete CV below.
         </p>
         <a
-          href="https://drive.google.com/file/d/1Vjff9p9nQHcH51UKmfQWv_fn3418rj8v/view?usp=drive_link" 
+          href="https://drive.google.com/file/d/1uzlXo3U9LphTDIzIBKD-0hi8aPG1FQGQ/view?usp=sharing" 
           className="bg-primary hover:bg-primary/80 text-white font-medium py-3 px-6 md:px-8 rounded-lg transition-all duration-200 hover:scale-105 shadow-lg hover:shadow-xl text-sm md:text-base"
           target="_blank"
           rel="noopener noreferrer"
