@@ -30,7 +30,7 @@ export default function Skills() {
 
   return (
     <section id="skills" className="mb-16 scroll-mt-24">
-      <h2 className="section-title">Technical Skills</h2>
+      <h2 className="section-title">Technical_Skills</h2>
       <div className="card">
         <ul className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3 md:gap-4">
           {skills.map((skill, index) => (

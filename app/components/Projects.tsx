@@ -11,6 +11,11 @@ export default function Projects() {
       link: 'https://pypi.org/project/freenect/'
     },
     {
+      title: 'UoM GPA Calculator (Firefox Extension)',
+      description: 'A browser extension for Firefox that calculates cumulative GPA on the UoM LMS Results page from your visible module table. Runs fully in-browser with no data leaving your device.',
+      link: 'https://addons.mozilla.org/en-US/firefox/addon/uom-gpa-calculator/'
+    },
+    {
       title: 'Intelligent Investment Advisor (Group Project)',
       description: 'AI-powered finance tool for budgeting, stock forecasting, and portfolio analysis. Built with Next.js and FastAPI.',
       link: 'https://github.com/Intelligent-Advisor-Sem-4/'

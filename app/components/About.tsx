@@ -4,15 +4,19 @@ export default function About() {
         <h2 className="section-title">About_Me</h2>
         <div className="card">
           <p className="text-base md:text-lg leading-relaxed">
-          I am a driven and innovative Computer Science and Engineering undergraduate with a passion for technology, leadership, and problem-solving. My diverse experiences range from developing cutting-edge projects and building full-stack applications to organizing large-scale events and leading cultural exchange initiatives.
+          I build things and ship them. My background is in Computer Science and Engineering, with open-source as more of a principle than a hobby — I&apos;ve built OSS projects, not just used them.
           </p>
           <br/>
           <p className="text-base md:text-lg leading-relaxed">
-          I am currently drawn to the intersection of hardware and software — spanning high performance computing, resource utilization, robotics, and automation. I am keen to explore how software shapes and is shaped by the physical world, and I actively seek out projects that sit at that boundary.
+          I&apos;m a problem solver with high agency. I&apos;ve led and guided teams toward goals under resource-constrained conditions, and that&apos;s where I thrive — because that&apos;s where execution matters most. I move fast, keep team friction low, and I&apos;m quick to learn, just as quick to unlearn.
           </p>
           <br/>
           <p className="text-base md:text-lg leading-relaxed">
-          With a strong technical foundation in frontend and backend development, database management, and team collaboration, I excel in dynamic environments where innovation thrives. Leveraging my leadership and communication skills, I am dedicated to delivering impactful solutions and driving success in every project I undertake.
+          My expertise is in software engineering and its practices, along with DevOps and Linux administration. I live close to the system, not just the application layer.
+          </p>
+          <br/>
+          <p className="text-base md:text-lg leading-relaxed">
+          Lately, I&apos;ve been pulled toward the boundary between hardware and software: Computer Architecture and Continual Learning in ML — the places where a system&apos;s constraints shape what&apos;s even possible.
           </p>
         </div>
       </section>

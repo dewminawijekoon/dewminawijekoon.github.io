@@ -17,7 +17,7 @@ export default function Home() {
         <Contact />
       </main>
       <footer className="text-center py-4 mt-8 border-t border-white/10">
-        <p className="text-sm text-foreground/70">&copy; 2025 Dewmina. All rights reserved.</p>
+        <p className="text-sm text-foreground/70">&copy; 2026 Dewmina. All rights reserved.</p>
       </footer>
     </div>
   )
