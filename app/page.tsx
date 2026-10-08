@@ -11,8 +11,8 @@ export default function Home() {
       <Header />
       <main className="container mx-auto px-4 pt-20 md:pt-24 flex-grow">
         <About />
-        <Skills />
         <Projects />
+        <Skills />
         <Resume/>
         <Contact />
       </main>

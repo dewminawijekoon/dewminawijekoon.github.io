@@ -46,8 +46,13 @@ export default function Projects() {
       link: 'https://github.com/dewminawijekoon/Jeewaka'
     },
     {
+      title: 'Rysera oneDesk',
+      description: 'Final selected prototype for the 2025 Tech Triathlon: a one-stop digital platform for government service access, designed to streamline citizen-facing workflows and service orchestration.',
+      link: 'https://github.com/chamodperera/Rysera_oneDesk'
+    },
+    {
       title: 'RouteMate',
-      description: 'Real-time public transport app using Flutter, Firebase, and Google Maps. Features live tracking, route planning, crowd-sourced alerts, and Material UI 3.',
+      description: 'Winner of the Idealize 2025 Open Category — a real-time public transport app using Flutter, Firebase, and Google Maps with live tracking, route planning, and crowd-sourced alerts.',
       link: 'https://github.com/dewminawijekoon/RouteMate'
     },
     {
