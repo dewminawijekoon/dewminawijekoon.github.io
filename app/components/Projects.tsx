@@ -1,6 +1,16 @@
 export default function Projects() {
   const projects = [
     {
+      title: 'Structure-Function-Aware Continual Learning for Task-Incremental AI',
+      description: 'Final year project on structure-function-aware continual learning for catastrophic forgetting, using ASF-S, AFC, and PGI to isolate task-specific subnetworks while minimizing retraining overhead.',
+      link: 'https://github.com/NeuroPulse-Co'
+    },
+    {
+      title: 'Hardware-Accelerated NMS Algorithm',
+      description: 'Deterministic non-maximum suppression implemented in VHDL on a Basys 3 FPGA, using a bitonic sorting network and parallel IoU lanes to achieve ~1.13 µs worst-case latency.',
+      link: 'https://github.com/YutharsanS/hardware-accelerated-nms-algorithm'
+    },
+    {
       title: 'Isaac Sim ArduPilot Simulator (Ongoing)',
       description: 'A containerised system to simulate real-world drone scenarios. Simulation runs on Isaac Sim with ArduPilot SITL, bridged via Pegasus Simulator. Scalable to ROS integration.',
       link: 'https://github.com/ryseraResearch/drone-platform-isaacsim'

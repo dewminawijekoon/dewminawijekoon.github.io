@@ -8,7 +8,6 @@ export default function Skills() {
   "React",
   "Node.js",
   "FastAPI",
-  "REST APIs",
   "MySQL",
   "MongoDB",
   "PyTorch",
@@ -19,13 +18,10 @@ export default function Skills() {
   "Git",
   "Isaac Sim",
   "ArduPilot",
-  "ROS",
-  "Pegasus Simulator",
   "Flutter",
   "React Native",
   "Firebase",
-  "VHDL",
-  "n8n"
+  "VHDL"
 ]
 
   return (
